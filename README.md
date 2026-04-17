@@ -1,4 +1,4 @@
-** Customer Churn Prediction – Beta Bank
+*** Customer Churn Prediction – Beta Bank
 * Problem
 
 Customer churn is a critical issue in the banking sector, as losing clients directly impacts revenue.
